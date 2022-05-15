@@ -10,10 +10,9 @@ The perfect choice for server moderation!
 
 |File|Description|
 |--|--|
-| modbot.js|the main script.|
+| bot.js|the main script.|
 | package.json|.json file containing info about the bot, made using npm, dUh.|
-| package-lock.json|Another json file but filed with shit with discord.js / npm / node.js|
-| README.md|You're fucking reading it right now yoou spaz. |
+| README.md|You're fucking reading it right now you spaz. |
 </p>
     <br />
 <p>
